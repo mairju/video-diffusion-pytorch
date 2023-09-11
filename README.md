@@ -2,7 +2,7 @@
 
 *these fireworks do not exist*
 
-## Video Diffusion - Pytorch
+## Video Diffusion - Pytorch: Playground
 
 Text to video, it is happening! <a href="https://video-diffusion.github.io/">Official Project Page</a>
 
